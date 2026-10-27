@@ -1,0 +1,18 @@
+{
+  "n_reaches_with_metrics": 3,
+  "n_reaches_with_correlation": 3,
+  "median_correlation": 0.8998157202596045,
+  "correlation_q25": 0.8912439347225427,
+  "correlation_q75": 0.903692435630089,
+  "median_mean_relative_bias_pct": 3.404153826833889,
+  "median_pairs_per_reach": 104.0,
+  "bias_definition": "100 * (mean(SWOT Q) - mean(gauge Q)) / mean(gauge Q), computed per reach",
+  "input_rows": 360,
+  "rows_in_study_period_after_quality_filter": 312,
+  "rows_after_time_tolerance": 312,
+  "time_tolerance_hours": 24,
+  "study_start_utc": "2023-03-01",
+  "study_end_exclusive_utc": "2024-08-01",
+  "quality_failures_included": false,
+  "scientific_status": "evaluation output; exact reproduction requires verification of the paper's precise filters and metric definitions"
+}

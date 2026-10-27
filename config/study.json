@@ -1,0 +1,17 @@
+{
+  "paper": "Andreadis et al. (2025), DOI 10.1029/2024GL114185",
+  "start_date_utc": "2023-03-01",
+  "end_date_utc_exclusive": "2024-08-01",
+  "time_tolerance_hours": 24,
+  "require_quality_ok": true,
+  "min_pairs_per_reach": 5,
+  "reference_values_not_results": {
+    "gauged_reaches": 65,
+    "median_correlation": 0.73,
+    "correlation_iqr": [
+      0.51,
+      0.89
+    ],
+    "median_bias_percent": 50
+  }
+}

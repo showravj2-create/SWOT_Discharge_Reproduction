@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the target paper and the specific data products used."
+title: "Reproduction Study: SWOT River Discharge Evaluation"
+type: software
+authors:
+  - family-names: "Repository author"
+    given-names: "Researcher"
+repository-code: "https://github.com/YOUR-USERNAME/swot-discharge-reproduction"
+references:
+  - type: article
+    authors:
+      - family-names: "Andreadis"
+        given-names: "Kostas M."
+    title: "A First Look at River Discharge Estimation From SWOT Satellite Observations"
+    journal: "Geophysical Research Letters"
+    year: 2025
+    doi: "10.1029/2024GL114185"
